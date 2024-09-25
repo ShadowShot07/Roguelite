@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16dee8a12e85b464dbc51e33000e604d, type: 3}
+  m_Name: Goblin
+  m_EditorClassIdentifier: 
+  cards:
+  - {fileID: 11400000, guid: dd0b6a312d54ba143868de64ab28b6ca, type: 2}
+  - {fileID: 11400000, guid: 4d22f01488cc24e4bac9906f0bfc34df, type: 2}
+  - {fileID: 11400000, guid: 4d22f01488cc24e4bac9906f0bfc34df, type: 2}
+  - {fileID: 11400000, guid: 4d22f01488cc24e4bac9906f0bfc34df, type: 2}
+  - {fileID: 11400000, guid: e8abd042913ddaf4fbd41c40d8d5ca00, type: 2}
+  - {fileID: 11400000, guid: e8abd042913ddaf4fbd41c40d8d5ca00, type: 2}
+  - {fileID: 11400000, guid: e8abd042913ddaf4fbd41c40d8d5ca00, type: 2}
+  - {fileID: 11400000, guid: d866096100aa4ce4d850a03908a458a6, type: 2}
+  - {fileID: 11400000, guid: d866096100aa4ce4d850a03908a458a6, type: 2}
+  - {fileID: 11400000, guid: f915986775ffb3947bdb799a54a50a14, type: 2}
+  - {fileID: 11400000, guid: f915986775ffb3947bdb799a54a50a14, type: 2}

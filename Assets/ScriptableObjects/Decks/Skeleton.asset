@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16dee8a12e85b464dbc51e33000e604d, type: 3}
+  m_Name: Skeleton
+  m_EditorClassIdentifier: 
+  cards:
+  - {fileID: 11400000, guid: 927a4e331dad73d49bb6c7f6d6cefa17, type: 2}
+  - {fileID: 11400000, guid: 2587e257c7617e148b23d229b6c105ab, type: 2}
+  - {fileID: 11400000, guid: 2587e257c7617e148b23d229b6c105ab, type: 2}
+  - {fileID: 11400000, guid: 2587e257c7617e148b23d229b6c105ab, type: 2}
+  - {fileID: 11400000, guid: 2587e257c7617e148b23d229b6c105ab, type: 2}
+  - {fileID: 11400000, guid: 34c090f5a3ddba140b1502bac068a85a, type: 2}
+  - {fileID: 11400000, guid: f0c5531073ed29e4f99769a90520b222, type: 2}
+  - {fileID: 11400000, guid: 836f1cc38909c9c4fa2d36597cdfef6a, type: 2}
+  - {fileID: 11400000, guid: 836f1cc38909c9c4fa2d36597cdfef6a, type: 2}
+  - {fileID: 11400000, guid: bc9141dae83c823449a71762a2245df1, type: 2}
+  - {fileID: 11400000, guid: bc9141dae83c823449a71762a2245df1, type: 2}
